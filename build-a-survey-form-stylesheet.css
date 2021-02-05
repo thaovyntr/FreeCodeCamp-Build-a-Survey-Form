@@ -1,0 +1,43 @@
+header{
+  font-size:28px;
+}
+body{
+  text-align: left;
+  line-height:1.4;
+  width: 700px;
+  margin:auto;
+  background-color: #CCFF
+}
+
+#description{
+  font-size:25px;
+}
+
+form{
+  background-color:#9999CC;
+  padding:25px;
+  width:650px;
+  margin:auto;
+  font-size:20px;
+  line-height:1.8;
+  border-radius:0.8%;
+}
+
+.submit-button{
+  Background-color: #FFCCFF;
+  border-radius: 15%;
+  cursor: pointer;
+}
+
+.form-inputs{
+  display:block;
+  width: 90%;
+  height: 2rem;
+  padding: 0.5px 6px;
+  border-radius: 2%;
+  background-color:#fff;
+}
+
+
+
+
